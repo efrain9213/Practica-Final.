@@ -1,0 +1,8 @@
+h1 {text-align:center;}
+h2 {text-align: center;}
+<anchura>
+#datosGenerales {background-color:  #00ff00; ancho: 50% ;}
+#datosTrabajo {background-color:  #00ffff; ancho: 50% ;}
+#nomina {background-color:  #0000ff; anchura: 50%; color: amarillo;}
+#botones {background-color:  #ffffff; anchura: 50%; text-align: derecha;}
+. numero {text-align: derecha;}
